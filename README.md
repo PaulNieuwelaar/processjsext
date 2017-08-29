@@ -21,7 +21,7 @@ Actions included are:
 
 The logical names to use when calling the actions are just "mag_" plus whatever above.
 
-Check the actual process for more info about what input/output parameters are required.
+Check the [Documentation](https://github.com/PaulNieuwelaar/processjsext/wiki/Documentation) more info about what input/output parameters are required.
 
 Each action includes a custom plugin with a plugin step registered against the action to perform all the logic, e.g. getting the input params, processing the request, and setting the output params.
 
