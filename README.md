@@ -1,6 +1,8 @@
 # Process.js Extensions - CRM 2013-D365 Custom Actions
 [![download](https://user-images.githubusercontent.com/14048382/27844360-c7ea9670-6174-11e7-8658-80d356c1ba8f.png)](https://github.com/PaulNieuwelaar/processjsext/releases/download/v2.0/ProcessJSExtensions_2_0_0_0.zip) (v2.0) [<img align="right" src="https://user-images.githubusercontent.com/14048382/29433676-4eb13ea6-83f4-11e7-8c07-eca514b1b197.png"/>](https://github.com/PaulNieuwelaar/processjsext/wiki/Documentation)
 
+**This is an add-on solution for my [Process.js 2.0](https://github.com/PaulNieuwelaar/processjs) solution.**
+
 This solution includes a bunch of sample Actions, which replicate some of the standard SDK messages, allowing you to call these easily from Process.js. The actual Actions are just wrappers for the real logic, which is all implemented in plugins (source code available). Check the Actions for the input and output parameters of each, and then call these actions using Process.js to try them out.
 
 Check out [Process.js 2.0](https://github.com/PaulNieuwelaar/processjs) for examples on how to call these Actions (there's an example for "Retrieve"). You don't NEED Process.js to install this solution, so if you want to use something else to call the Actions, like the new WebApi (shudder), then you can still use these Actions without Process.js.
