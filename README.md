@@ -1,4 +1,4 @@
-# Process.js Extensions - CRM 2013-D365 Custom Actions
+# Process.js Extensions - CRM 2013-Dynamics 365 Custom Actions
 [![download](https://user-images.githubusercontent.com/14048382/27844360-c7ea9670-6174-11e7-8658-80d356c1ba8f.png)](https://github.com/PaulNieuwelaar/processjsext/releases/download/v2.0/ProcessJSExtensions_2_0_0_0.zip) (v2.0) [<img align="right" src="https://user-images.githubusercontent.com/14048382/29433676-4eb13ea6-83f4-11e7-8c07-eca514b1b197.png"/>](https://github.com/PaulNieuwelaar/processjsext/wiki/Documentation)
 
 **This is an add-on solution for my [Process.js 2.0](https://github.com/PaulNieuwelaar/processjs) solution.**
