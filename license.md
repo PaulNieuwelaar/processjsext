@@ -1,3 +1,6 @@
+TL;DR:
+This software is free to use for all Dynamics 365 customers and partners. Free means you can include this solution as a part of a larger solution, and make any changes to the source code as needed, provided you maintain the copyright notice and repository links at the top of each file. Free does not mean you can onsell this as a standalone solution, and/or claim this solution as your own.
+
 CDDL
 1. Definitions.
 
